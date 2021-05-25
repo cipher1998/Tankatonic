@@ -115,8 +115,8 @@ MonoBehaviour:
   Powerup:
   - {fileID: 5784775068837235134, guid: 3ba75143a9e44414a8929ec6ef0b7f40, type: 3}
   - {fileID: 5784775068837235134, guid: 2b35faeb85ff61c48a8f6f1e857c94c2, type: 3}
-  Spawnrate: 1
-  Destroyrate: 5
+  Spawnrate: 20
+  Destroyrate: 10
 --- !u!1 &212802289097304527
 GameObject:
   m_ObjectHideFlags: 0

@@ -34,7 +34,7 @@ public class MoveTurret : MonoBehaviour, IDragHandler, IEndDragHandler, IBeginDr
     // Update is called once per frame
     void Update()
     {
-          OnkeyboardInput();
+         // OnkeyboardInput();
           OnturretFire();
     }
 

@@ -46,7 +46,7 @@ public class MoveExplosive : MonoBehaviour, IDragHandler, IEndDragHandler, IBegi
                MyImage.color = new Color(1f,1f,1f, 0.6f);
           }
 
-          OnkeyboardInput();
+        //  OnkeyboardInput();
           OnturretFire();
     }
 
